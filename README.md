@@ -1,6 +1,7 @@
 # CHALLEGE-ENCRIPTADOR-DE-TEXTO
 -Estado del proyecto, concluido. 
--Aun me faltan muchos detalles pero para ser mi primer proyecto creo que me ha ido bien.
+-Aun me faltan muchos detalles pero para ser mi primer proyecto creo que me ha ido bien, 
+para este proyecto utilice el lenguaje js.
 -Seguire esforzandome por aprender y mejorar mis habilidades. 
 -Abjunto imagenes de como se ve mi proyecto y su funcionalidad. 
 ![image](https://github.com/user-attachments/assets/743155c2-18bd-4b12-b511-a4526fe66cdc)
